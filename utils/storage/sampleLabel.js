@@ -1,5 +1,11 @@
 exports.sampleIngredients = {
   toxic: {
+    product:'skincare mybell ',
+    readLabel :[  'water','propylene glycol', 'styrene/acrlates/ammonium', 'methacrelate', 'copolymer', 'polyurethane-35',
+    'cera alba/beeswax/cire dabeille','syntentic fluorphlogopite','glyceryl stearate','cetyl alcohol','PEG-200', 'glyceryl stearate','ethylenediamine','stearyl dimer dilinoeate copolymer',
+    'copernicia cerifera cera','carnauba wax','cire de carnauba','stearic acid', 'palmitic acid', 'ethylene','va copolymer','alcohol denat','paraffin','aminomethyl propanediol','phenoxyethanol','caprylyl glycol',
+    'glycerin','hydroxyethycellulose','butylene glycol','rayon','xanthan gum','caprylic','capric triglyceride','sodium laureth sulfate','disodium edta','myristic acid','tetrasodium edta','pentaerythrityl tetra-di-t-butyl',
+    'hydroxyhydrocinnamate','potassium sorbate', 'silica','soluble collagen','bambusa vulgaris extract','trisodium edta'],
     items: [
       'AUN MEDIWDE INWEDAIU.',
       'NGREDIENTS G68ASS AOJA YWATER IEALPROPMLBNE GVCOL STIAENEACRMATES AMMONIUM MEIHACRMLATE COPOLINMER POLTRETHANE 3%(0RAABN BFESWAX I CRE DABELIE SNTHETIC AUORPHLOGOPTE GYCERYL STEARATE CETMLALCOHOL PEG-200 GLYCERYL STEARATE, ETHMLENEDAMMESTEARML DMER DLNOLEATIE COPYMER, COPERNCA CERFRA CERAICARVABA WAX / CRE DE CARNALBA, STEARIC ACD, PAUMTIC ACD, ETHYENENA CPOLYINER ACOHL DEAT. PARAFFINL AMNCMETHYL PROPANEDIOL PHENOXYETHANOL CAPRML GUYCOL GVCERINL AYDROXYETHYMLCELLILOSE BUTYLENE GLYCOL BAYON XANTHAN GUM, CAPRYLC CAPRIC TRIGLYCERIDE SODLUM LAURETH SULFATE DISODUM EDTA MYRISTC ACD, TETRASOOUMI EDTA PENTAERYTHRITYL TETRA-O-TBUTYN HYOROXIHYOROCINAMATE, POTASSIUM SORBATE, SLUCA, SOLIBLE COLLAGEN, BAMBISA VULGARIS EXTRAC, TRISODUM EDTA, (H- MAY CONTAN / PEUT CANIBR 079, 07A, O 749 RON ODS 0 7ON (ULIRANNS WA O TISN/ TANN DOOE O 7590/(CAMINE, O TZA8/CRIMIM OXDE GREENIS, C 7m42 MANGANESE VOLET, Q 7510 /FERRIC FERROCYANDE ELA DZS05271',
