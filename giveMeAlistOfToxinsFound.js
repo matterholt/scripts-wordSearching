@@ -45,6 +45,7 @@ const toxinNames = msrListToxinSimplised(toxinMasterList);
 
 // one string on teh OCR word results, whatever is return from the OCR image processing
 const labelString = singletonStringOfWords(labelTox);
+console.log(labelString)
 
 // check label if there any toxins are found.
 const searchToxins = ingredientsSearchInMasterList(toxinNames, labelString);

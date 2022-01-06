@@ -3,10 +3,16 @@ const { giveMeAlistOfToxinsFound } = require('./giveMeAlistOfToxinsFound.js');
 const { sampleIngredients } = require('./utils/storage/sampleLabel');
 const { toxinMasterList } = require('./utils/storage/ingredientMl');
 
-const possibleToxinsFound = giveMeAlistOfToxinsFound(toxinMasterList, sampleIngredients.toxic.raw)
+const {toxic,nonToxin}=sampleIngredients
 
+
+
+const possibleToxinsFound = giveMeAlistOfToxinsFound(toxinMasterList, toxic.readLabel)
 const wordsOfToxins = possibleToxinsFound.map(x => x.toxinItems)
 
-
-
 console.log(wordsOfToxins)
+
+
+const doubleTrueValues = [
+    'Disodium EDTA','Tetrasodium EDTA','Trisodium EDTA','Diol','Phenoxyethanol','Propylene Glycol','PEG'
+]
