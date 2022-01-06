@@ -1,7 +1,7 @@
 exports.sampleIngredients = {
   toxic: {
     product:'skincare mybell ',
-    readLabel :[  'water','propylene glycol', 'styrene/acrlates/ammonium', 'methacrelate', 'copolymer', 'polyurethane-35',
+    readLabel :['water','propylene glycol', 'styrene/acrlates/ammonium', 'methacrelate', 'copolymer', 'polyurethane-35',
     'cera alba/beeswax/cire dabeille','syntentic fluorphlogopite','glyceryl stearate','cetyl alcohol','PEG-200', 'glyceryl stearate','ethylenediamine','stearyl dimer dilinoeate copolymer',
     'copernicia cerifera cera','carnauba wax','cire de carnauba','stearic acid', 'palmitic acid', 'ethylene','va copolymer','alcohol denat','paraffin','aminomethyl propanediol','phenoxyethanol','caprylyl glycol',
     'glycerin','hydroxyethycellulose','butylene glycol','rayon','xanthan gum','caprylic','capric triglyceride','sodium laureth sulfate','disodium edta','myristic acid','tetrasodium edta','pentaerythrityl tetra-di-t-butyl',

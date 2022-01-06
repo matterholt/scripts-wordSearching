@@ -547,7 +547,12 @@ exports.toxinMasterList = [
   { id: '143', name: 'Parabens', descriptionId: 43, productType: 'skincare' },
   {
     id: '144',
-    name: 'PEGs (Polyethylene Glycol)',
+    name: 'PEG',
+    descriptionId: 44,
+    productType: 'skincare',
+  },  {
+    id: '144-1',
+    name: 'Polyethylene Glycol',
     descriptionId: 44,
     productType: 'skincare',
   },
