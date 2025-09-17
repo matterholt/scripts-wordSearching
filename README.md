@@ -1,3 +1,3 @@
-# node-ubuwfw
+# Word Searching
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ubuwfw)
+filtering out and searching through a list of words
